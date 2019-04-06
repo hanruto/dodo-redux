@@ -1,0 +1,12 @@
+{
+  "defaultSeverity": "error",
+  "compilerOptions": {
+    "jsx": "preserve",
+    "experimentalDecorators": true,
+    "removeComments": true,
+    "sourceMap": true
+  },
+  "jsRules": {},
+  "rules": {},
+  "rulesDirectory": []
+}
